@@ -2,21 +2,21 @@
 
 > Systems Development Technician | Full-Stack & IoT Developer
 
-- 🎓 **Software Development Technician** (Graduated from CEEFMTI João XXIII)
-- 💡 Passionate about **Full-Stack Development**, **IoT (Internet of Things)**, and **Embedded Automation**
-- 🚀 Building real-time hardware solutions (ESP32) paired with modern web interfaces
+- 🎓 **Software Development Technician** (Graduated from CEEFMTI João XXIII)[cite: 18]
+- 💡 Passionate about **Full-Stack Development**, **IoT (Internet of Things)**, and **Embedded Automation**[cite: 18]
+- 🚀 Building real-time hardware solutions (ESP32) paired with modern web interfaces[cite: 18]
 
 ---
 
 ### 🚀 Featured Projects
 
 #### 🛡️ [Hamilton SafeHouse](https://github.com/Davy466/site-3msi02mobile)
-An intelligent residential safety & telemetry system powered by **ESP32**, **Web Bluetooth (BLE)**, and **Chart.js**.
-- 🔗 **Live Demo:** [Your GitHub Pages Link Here]
+An intelligent residential safety & telemetry system powered by **ESP32**, **Web Bluetooth (BLE)**, and **Chart.js**[cite: 18].
+- 🔗 **Live Demo:** [davy466.github.io/site-3msi02mobile](https://davy466.github.io/site-3msi02mobile/)
 
 #### 🌊 [Bio-Guard](https://github.com/Davy466/Bio-Guard-7)
-Real-time water quality monitoring platform integrating physical & optical sensors (RGB, LDR) with **ESP32** via **Web BLE**.
-- 🔗 **Live Demo:** [Your GitHub Pages Link Here]
+Real-time water quality monitoring platform integrating physical & optical sensors (RGB, LDR) with **ESP32** via **Web BLE**[cite: 18].
+- 🔗 **Live Demo:** [davy466.github.io/Bio-Guard-7/sensores-flat.html](https://davy466.github.io/Bio-Guard-7/sensores-flat.html)
 
 ---
 
